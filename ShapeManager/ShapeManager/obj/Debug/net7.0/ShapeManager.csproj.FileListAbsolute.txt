@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/bin/Debug/net7.0/ShapeManager
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/bin/Debug/net7.0/ShapeManager.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/bin/Debug/net7.0/ShapeManager.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/bin/Debug/net7.0/ShapeManager.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/bin/Debug/net7.0/ShapeManager.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/refint/ShapeManager.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ShapeManager.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ShapeManager/ShapeManager/ShapeManager/obj/Debug/net7.0/ref/ShapeManager.dll
